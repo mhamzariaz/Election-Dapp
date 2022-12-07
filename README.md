@@ -18,3 +18,6 @@ truffle migrate
 truffle test
 
 once we execute this command we will see the tests passing or failing
+
+
+The output is available in the output.doc file
